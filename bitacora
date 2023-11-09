@@ -1,0 +1,42 @@
+{
+   "status":true,
+   "message":"Se obtuvo correctamente",
+   "data":[
+      {
+         "folio":"654409c050f7b5dd7b41e631",
+         "actividad":123124,
+         "usuario":"654409c050f7b5dd7b41e632",
+         "estatusBitacora":"Proceso",
+         "fecha":"23-11-2023",
+         "comentario":"Demo de comentario",
+         "tipoBitacora":"Actividad"
+      },
+      {
+         "folio":"654409c050f7b5dd7b41e631",
+         "actividad":123124,
+         "usuario":"654409c050f7b5dd7b41e632",
+         "estatusBitacora":"Proceso",
+         "fecha":"23-11-2023",
+         "comentario":"Demo de comentario",
+         "tipoBitacora":"Solicitud"
+      },
+      {
+         "folio":"654409c050f7b5dd7b41e631",
+         "actividad":123124,
+         "usuario":"654409c050f7b5dd7b41e632",
+         "estatusBitacora":"Proceso",
+         "fecha":"23-11-2023",
+         "comentario":"Demo de comentario",
+         "tipoBitacora":"Actividad"
+      },
+      {
+         "folio":"654409c050f7b5dd7b41e631",
+         "actividad":123124,
+         "usuario":"654409c050f7b5dd7b41e632",
+         "estatusBitacora":"Proceso",
+         "fecha":"23-11-2023",
+         "comentario":"Demo de comentario",
+         "tipoBitacora":"Solicitud"
+      }
+   ]
+}
